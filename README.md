@@ -11,7 +11,7 @@ A RESTful Blog API built using **FastAPI** and **PostgreSQL**, featuring CRUD op
 - Search functionality (filter posts by keyword)
 - Pagination support
 - File upload API (store files locally)
-- JWT-based authentication (if applicable)
+- JWT-based authentication used
 - FastAPI automatic Swagger documentation
 
 ---
